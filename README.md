@@ -24,7 +24,7 @@ Configuracion y comando para instalar dynamicCursor
 
 ```sudo pacman -S --needed base-devel cmake cpio git meson gcc```
 
-2.Normalmente usaras hyprpm el cual viene comunmente ne hyprland. usa este comando para colocar el repositorio:
+2.Normalmente usaras hyprpm el cual viene comunmente en hyprland. usa este comando para colocar el repositorio:
 
 ```hyprpm add https://github.com/VirtCode/hypr-dynamic-cursors```
 
