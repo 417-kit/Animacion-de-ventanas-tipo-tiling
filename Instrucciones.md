@@ -15,21 +15,21 @@ instrucciones de el default.lua:
 
 Configuracion y comando para instalar dynamicCursor
 
-1. instalar dependecias:
+1. Instalar dependecias:
 
-sudo pacman -S --needed base-devel cmake cpio git meson gcc
+```sudo pacman -S --needed base-devel cmake cpio git meson gcc```
 
-2.normalmente usaras hyprpm el cual viene comunmente ne hyprland. usa este comando para colocar el repositorio:
+2.Normalmente usaras hyprpm el cual viene comunmente ne hyprland. usa este comando para colocar el repositorio:
 
-hyprpm add https://github.com/VirtCode/hypr-dynamic-cursors
+```hyprpm add https://github.com/VirtCode/hypr-dynamic-cursors```
 
-3. habilita el plugin:
+3. Habilita el plugin:
 
-hyprpm enable dynamic-cursors
+```hyprpm enable dynamic-cursors```
 
-4.recarga hyprland:
+4. Recarga hyprland:
 
-hyprpm reload
+```hyprpm reload```
 
 5. si no inicia automaticamente al iniciar entonces coloca ell inicio automatico en tu hyprland.lua o bien puedes escribir "hyprpm reload" cada vez que enciendas la PC lo cual es molesto.
 
