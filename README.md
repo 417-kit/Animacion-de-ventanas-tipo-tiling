@@ -1,5 +1,7 @@
 ## Animacion bonita y fluida de ventanas (es mejor si tienes un monitor de 100hz)
 
+### Hi, soy Kit, hice esto porque mucha gente en tiktok (videos de otras personnas) estaban pidiendo las configuraciones bonitas y tutoriales, pero nadie les responde; enntonces lo hice yo con mis propias configuraciones base.
+
 Estas son algunas configuraciones que tengo en mi hyprland. El archivo "general.lua" (dentro de esta ruta /TuUsuario/.config/hypr/hyprland) no tiene errores pero esta algo desordenado, si quieres lo dejas asi o lo colocas y es todo. esta configuracion es para los dots https://github.com/end-4/dots-hyprland
 
 Si quieres  ver algo de el funcionamiento de los dots y la configuracion entonces descarga el video de 30 segundos.
