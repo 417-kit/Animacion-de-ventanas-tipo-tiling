@@ -2,7 +2,7 @@
 
 ### Hi, soy Kit, hice esto porque mucha gente en tiktok (videos de otras personas) estaban pidiendo las configuraciones bonitas y tutoriales, pero nadie les responde; enntonces lo hice yo con mis propias configuraciones base.
 
-Estas son algunas configuraciones que tengo en mi hyprland. El archivo "general.lua" (dentro de esta ruta /TuUsuario/.config/hypr/hyprland) no tiene errores pero esta algo desordenado, si quieres lo dejas asi o lo colocas y es todo. esta configuracion es para los dots https://github.com/end-4/dots-hyprland
+Estas son algunas configuraciones que tengo en mi hyprland. El archivo "general.lua" (dentro de esta ruta /TuUsuario/.config/hypr/hyprland) no tiene errores pero esta algo desordenado MUY desordenado, hay duplicados que no e eliminado etc, pero funciona perfecto, si quieres lo dejas asi o lo colocas y es todo. esta configuracion es para los dots https://github.com/end-4/dots-hyprland
 
 Si quieres  ver algo de el funcionamiento de los dots y la configuracion entonces descarga el video de 30 segundos.
 Animacion de ventanas (Hyprland)
