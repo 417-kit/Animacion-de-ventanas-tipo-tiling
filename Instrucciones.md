@@ -1,4 +1,4 @@
-                                  Animacion de ventanas (Hyprland)
+Animacion de ventanas (Hyprland)
 
 1. Descarga el archivo "general.lua"
 2. Colocalo en la ruta /TuUsuario/.config/hypr/hyprland/
@@ -13,20 +13,20 @@ instrucciones de el default.lua:
 3. Si te pide reemplazar el archivo default.lua haz una copia de el original ya que si tienes algun scrip o algo apuntando a ese archivo entonces hara un caos, posteriormente reemplaza el original.
 4. Ya esta. Normalmente este vino de los dots MlW4 los cuales son para trabajo y son aburridos.
 
-                     (Configuracion y comando para instalar dynamicCursor)
+Configuracion y comando para instalar dynamicCursor
 
 1. instalar dependecias:
- sudo pacman -S --needed base-devel cmake cpio git meson gcc
+````sudo pacman -S --needed base-devel cmake cpio git meson gcc````
 
 2.normalmente usaras hyprpm el cual viene comunmente ne hyprland. usa este comando para colocar el repositorio:
 
- hyprpm add https://github.com/VirtCode/hypr-dynamic-cursors
+ ````hyprpm add https://github.com/VirtCode/hypr-dynamic-cursors````
 
 3. habilita el plugin:
- hyprpm enable dynamic-cursors
+ ````hyprpm enable dynamic-cursors````
 
 4.recarga hyprland:
- hyprpm reload
+ ````hyprpm reload````
 
 5. si no inicia automaticamente al iniciar entonces coloca ell inicio automatico en tu hyprland.lua o bien puedes escribir "hyprpm reload" cada vez que enciendas la PC lo cual es molesto.
 
@@ -41,7 +41,7 @@ instrucciones de el default.lua:
         .S    ;SS     SS%#  @S     
         @%.    ;%% ;S?:  . S@:     
         @:     ,?SS   :   .@S      
-        #          %+ ,: .@@       
+        #          %+ ,: .@@     Kit  
         #;         . .;::@@        
        .@       ;,%%S#,*S@         
        #%      S*?;%SSS?@%,        
